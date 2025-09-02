@@ -1,0 +1,13 @@
+torch>=1.13.0
+transformers>=4.27.0
+datasets>=3.5.1
+accelerate>=0.20.0
+peft>=0.4.0
+bitsandbytes>=0.37.0
+librosa>=0.9.0
+evaluate>=0.30
+jiwer>=3.0.0
+gradio>=3.0.0
+tqdm>=4.64.0
+numpy>=1.21.0
+soundfile>=0.12.0 
